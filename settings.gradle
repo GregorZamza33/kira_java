@@ -1,0 +1,4 @@
+rootProject.name = 'Java-Course-Work-Car-Service'
+include 'server'
+include 'client'
+
